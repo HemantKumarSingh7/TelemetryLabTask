@@ -4,7 +4,7 @@
 Telemetry Lab simulates an edge inference pipeline with CPU-intensive compute tasks, demonstrating smooth UI performance, proper background execution, and battery awareness.
 
 ## Video Demo
-[Video Demo Link] :- https://drive.google.com/file/d/1zR3Hnx3hcxBI2F8KA74etpnLLlUQ_hvp/view?usp=sharing
+[Video Demo Link] :- https://drive.google.com/file/d/1xSSSkm_FykfsLjNtk8b93wkSvcK2cl9s/view?usp=sharing
 
 ### Threading & Backpressure Approach
 - **Coroutines with Dispatchers.Default**: All compute tasks run on background threads using `Dispatchers.Default` for CPU-intensive work
